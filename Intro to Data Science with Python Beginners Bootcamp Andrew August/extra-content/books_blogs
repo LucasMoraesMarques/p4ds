@@ -1,0 +1,34 @@
+Books
+
+R for Data Science: Import, Tidy, Transform, Visualize, and Model Data by Hadley Wickham, Garrett Grolemund
+
+R for Data Science equips data scientists with the tools and techniques to extract data, clean it up and uncover clear insights. The primary toolbox here is R’s tidyverse package, itself a collection of packages that have revolutionised R by making it much easier to use for day to day data management activities. The authors also present a helpful iterative framework for conducting data science projects and address the common issues of messy data and strange formats.
+
+R for Data Science is extremely easy to read, if you haven’t played around with the tidyverse this book is a great place to start. Your life as a data scientist will become much easier!
+
+Data Smart: Using Data Science to Transform Information into Insight by John W. Foreman
+
+The then chief data scientist at MailChimp.com, John W. Foreman takes readers through several practical exercises in data science and business analytics. Data Smart highlights the point that in order to ‘do data science’ one does not always have to use fancy tools, much of the work can simply be done in Excel. Of course, using tools such as R are often much more convenient, but it is sometimes helpful to hack the problem using Excel, then you know you really understand what you are doing! I found the pragmatic approach to data science put forward by Data Smart most refreshing.
+
+Data Science for Business: What you need to know about data mining and data-analytic thinking by Foster Provost, Tom Fawcett
+
+Data Science for Business presents a comprehensive survey of modern supervised and unsupervised data science methods and applications in a business context. I particularly enjoyed the treatment of model ‘accuracy’ and business cost considerations when settling an acceptable true positive threshold for a chosen model.
+
+This book strikes a nice balance between being too technical and too fluffy. For those really interested, ‘extra for experts’ mathematics sections are available throughout.
+
+An Introduction to Statistical Learning: With Applications in R
+by Gareth James, Trevor Hastie, Robert Tibshirani, Daniela Witten
+
+This book is by far the best book I have read on statistical learning. Like Data Science for Business, ISL strikes a great balance between mathematical and intuitive explanations.
+
+What I particularly like about this book is the discussion around the trade-off between variance and bias when choosing a model specification and the handy graphics used to illustrate this point. Another selling point is the collection of exercises that enable the reader to test their knowledge by using R.
+
+Note: if you want to expand on the content found in this book you may consider reading its big brother, The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, Jerome Friedman.
+
+Blogs
+
+www.r-bloggers.com
+
+http://varianceexplained.org/
+
+http://freerangestats.info/

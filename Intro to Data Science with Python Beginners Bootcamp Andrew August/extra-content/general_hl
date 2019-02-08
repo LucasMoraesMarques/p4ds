@@ -1,0 +1,113 @@
+If you feel like brushing up on your Python, the free sections in the 'Learn Python' course on codecademy would be a good option. No need to do it all! I would pay close attention to lists, dictionaries, and functions. 
+
+https://www.codecademy.com/learn/learn-python
+
+For those interested in stats theory (CLT).
+
+https://flowingdata.com/2013/06/03/central-limit-theorem-animation/
+
+Many flavours of 'regression' exist.
+
+https://en.wikipedia.org/wiki/Poisson_regression
+
+More detail on log-linear models.
+
+http://kenbenoit.net/assets/courses/ME104/logmodels2.pdf
+
+RSS TSS and ESS Extra for experts!
+
+https://www.riskprep.com/component/exam/?view=exam&layout=detail&id=131
+
+D3 js.
+
+https://github.com/d3/d3/wiki/Gallery
+
+Git tutorial.
+
+https://www.atlassian.com/git/tutorials
+
+Here is a good summary of the *assumptions of linear regression* for your reference.
+
+http://r-statistics.co/Assumptions-of-Linear-Regression.html
+
+Hot off the press.
+
+https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906
+
+Great example of CV method for assessing a classifier/regressor.
+
+http://scikit-learn.org/stable/auto_examples/exercises/plot_cv_diabetes.html#sphx-glr-auto-examples-exercises-plot-cv-diabetes-py
+
+For a great explanation of K-NN classification please see page 40.
+
+http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
+
+German Tank Problem.
+
+https://en.wikipedia.org/wiki/German_tank_problem
+
+Neural Nets.... have a play!
+
+https://playground.tensorflow.org/
+
+Excellent 'variable importance' example in python... take a look!
+
+http://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html
+
+Here is the example from class regarding the comparison of classifiers versus different data structures, linear and non-linear. Things to look at are 1) Overfitting, 2) Decision boundaries and the shape thereof... 
+
+http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py
+
+when you represent a categorical variables as a series of _K_ dummy variables you must only include _K-1_ of these in the training dataset because _knowledge of K-1_ allows you to work out the last dummy. I have amended the code ie `X = col_admit_clean.drop(columns = ['admit', "rank_1"])`. FYI.
+
+https://www.quora.com/Do-you-include-all-dummy-variables-in-a-regression-model
+
+Comparison of clustering methods.
+
+http://scikit-learn.org/stable/modules/clustering.html#clustering
+
+Here is the strategy for determining the number of clusters using S-distances.
+
+http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
+
+Here is how the k-means method works.
+
+https://en.wikipedia.org/wiki/K-means_clustering
+
+PCA in action.
+
+https://www.otago.ac.nz/wellington/otago055487.pdf
+
+PCA?
+
+https://www.quora.com/When-and-where-do-we-use-PCA
+
+Spurious correlations.
+
+http://tylervigen.com/spurious-correlations
+
+FB TS.
+
+https://github.com/facebook/prophet
+
+Google Causal Impact.
+
+https://github.com/google/CausalImpact
+
+I feel this blog post covers most of last lessons lesson on TS very well. 
+
+https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
+
+Times series data is comprised of 3 components *Seasonality, trend and 'the unexplained' (cycles).* Seasonality can be modelled as a _periodic function_ https://en.wikipedia.org/wiki/Periodic_function  and trend as a _monotonic function_ https://en.wikipedia.org/wiki/Monotonic_function.
+
+RFE.
+
+http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html
+
+Lambda architecture.
+
+https://en.wikipedia.org/wiki/Lambda_architecture
+
+pre cooked recommendation system.
+
+https://github.com/mhahsler/recommenderlab
